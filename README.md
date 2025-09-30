@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="typing guy" width="260"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
 <h3 align="center">DevOps & Cloud Engineer | Software Developer</h3>
 
