@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="typing guy" width="260"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Omar+Ahmed;DevOps+Engineer;Cloud+%7C+Automation+%7C+CI%2FCD;Always+learning+new+things">
 </p>
 
 <h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
