@@ -33,13 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboelhassan22omar&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aboelhassan22omar&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Let's Connect  
 
 - ✉️ Email: [your-email@example.com]  
