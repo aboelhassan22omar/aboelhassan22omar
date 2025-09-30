@@ -37,11 +37,3 @@
 <a href="#"><img src="https://helm.sh/img/helm.svg" height="48"/></a>
 <a href="#"><img src="https://img.icons8.com/color/48/000000/huawei-logo.png"/></a>
 </p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aboelhassan22omar&show_icons=true&theme=tokyonight" alt="omar stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboelhassan22omar&layout=compact&theme=tokyonight" alt="omar langs" />
-</p>
