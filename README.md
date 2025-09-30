@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
 <h3 align="center">DevOps & Cloud Engineer | Software Developer</h3>
