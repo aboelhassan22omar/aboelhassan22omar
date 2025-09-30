@@ -2,43 +2,59 @@
   <img src="https://github.com/aboelhassan22omar/aboelhassan22omar/blob/main/cover-things.gif" width="100%" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Omar Ahmed</h1>
 <h3 align="center">DevOps & Cloud Engineer | Software Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+%7C+Automation+%7C+CI%2FCD;Always+learning+new+things" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🌐 Connect with me:
-<p align="left">
-<a href="mailto:omar.ahmed4474@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/omar-ahmad-454484244" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" height="40" width="40" /></a>
+<p align="center">
+  <a href="mailto:omar.ahmed4474@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/omar-ahmad-454484244" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"/>
+  </a>
 </p>
 
 ---
 
-### 💻 Languages:
-<p align="left"> 
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/plasticine/48/000000/bash.png"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/000000/yaml.png"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></a>
+### 💻 Programming Languages
+<p align="center"> 
+  <img src="https://img.icons8.com/plasticine/48/000000/bash.png" alt="bash"/>
+  <img src="https://img.icons8.com/fluency/48/000000/yaml.png" alt="yaml"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java"/>
 </p>
 
 ---
 
-### 🛠️ Tools & Platforms:
-<p align="left"> 
-<a href="#"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/vmware.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/kubernetes.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/gitlab.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/ansible.png"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/terraform.png"/></a>
-<a href="#"><img src="https://helm.sh/img/helm.svg" height="48"/></a>
-<a href="#"><img src="https://img.icons8.com/color/48/000000/huawei-logo.png"/></a>
+### 🛠️ Tools & Platforms
+<p align="center"> 
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws"/>
+  <img src="https://img.icons8.com/color/48/000000/vmware.png" alt="vmware"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/>
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab"/>
+  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="ansible"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="terraform"/>
+  <img src="https://helm.sh/img/helm.svg" alt="helm" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/huawei-logo.png" alt="huawei cloud"/>
+</p>
+
+---
+
+### 💽 Operating Systems
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="windows"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
 </p>
